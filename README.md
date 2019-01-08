@@ -1,0 +1,2 @@
+# GlobalDoc
+Documentacion Global
